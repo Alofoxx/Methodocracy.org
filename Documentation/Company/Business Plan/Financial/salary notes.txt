@@ -9,16 +9,18 @@
     Free Documentation License".
 	
 	Methodocracy TM is a trademark of Methodocracy.org (C)2014-2015, and all rights to that TM are reserved. Any modified versions are required to be marked as changed, so that their problems will not be attributed erroneously to authors of previous versions. And the name Methodocracy TM should be clearly labeled as the source of your work as long as any part of this work remains intact in part or in whole.
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-Copy the above into each documentation file. For full licence, see GNU Free Documentation License.txt
+
+Average nonprofit salary: $49,000 simply hired
+Average normal salary: $37,000 simply hired
+
+Average Web Developer salary: $70,000 simply hired
+Average nonprofit CEO salary: $94,000 simply hired
+
+Average Web Developer salary: $53,675 payscale
+Average nonprofit CEO salary: $101,019 payscale
+
+Average Web Developer salary: $87,000 indeed
+Average nonprofit CEO salary: $61,000 indeed
+
+Decision Web Developer: $70,000
+Decision CEO: $60,000

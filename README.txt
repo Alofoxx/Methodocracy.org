@@ -1,8 +1,28 @@
-Methodocracy.org
+Methodocracy
 
-We are setting up a scientific charity to run the development of a website and a knowledge base. These free products facilitate the act of problem-solving, for users to apply in any subject they wish. People who have something to say about a problem in the world, but are not in the professional debate about the issue, will be able to have a more effective voice. Together, we can be a force for effective change.
+"The Super-Power of Problem-Solving"
 
-Mission Statement:
 
-To continually improve the best methods for problem-solving, starting by digitizing the scientific method into a knowledge base accessed and developed by users through a website. To apply this process to more subjects in which it is not being applied. To ensure that everyone can participate in the method and its debate free of charge, access the version history of the knowledge base, improve the method's design using the method itself, and contribute to the open-sourced development of the code. To facilitate citizen science, because the cooperative potential of uncredentialed thinkers is underused, and the subjects in which the scientific method is not being applied in could benefit from the scientific method.
+We're setting up a free website that facilitates the act of problem-solving, where evidence-based arguments hold more weight than arguments like opinions.
 
+
+
+Benefits
+
+    Attempts to solve the world's biggest problems, as well as smaller problems
+    Supports governmental and non-governmental decision making
+    Applies metrics and program evaluation to complex social systems
+
+
+
+
+If you want to advocate for a certain position, such as addressing poverty, you would state your arguments on the site. If you back up your arguments with rigorous scientific research, then your arguments get weighted more heavily. If you just state an opinion with no research or any facts at all, then that gets weighted the least, and is put further down in a hierarchy of arguments for and against that particular topic.
+
+However, no one should entirely dismiss an opinion, as it may contain truths that have yet to be validated by research. After all, Einstein's theory of relativity started out as just a thought, with no research to back it up.
+
+Anyone can propose arguments on any subject, and ideally, this site could be useful when determining the best course of action in setting policy within governmental entities, political initiatives, scientific endeavors, nonprofit initiatives, corporate actions -- well, just about anything! Perhaps it could also centralize scientific publication.
+
+
+There is something missing on the Internet, its true potential has yet to be unlocked.
+
+See about.html for more information

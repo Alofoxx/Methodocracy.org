@@ -1,0 +1,54 @@
+	Copyright 2014-2015 Zachary Hebert, Patrick Gillespie
+	This is part of the Methodocracy Documentation.
+
+    Permission is granted to copy, distribute and/or modify this document
+    under the terms of the GNU Free Documentation License, Version 1.3
+    or any later version published by the Free Software Foundation;
+    with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+    A copy of the license is included in the section entitled "GNU
+    Free Documentation License".
+	
+	Methodocracy TM is a trademark of Methodocracy.org (C)2014-2015, and all rights to that TM are reserved. Any modified versions are required to be marked as changed, so that their problems will not be attributed erroneously to authors of previous versions. And the name Methodocracy TM should be clearly labeled as the source of your work as long as any part of this work remains intact in part or in whole.
+
+	
+Honor.
+
+Methodocracy Foundation will always:
+-Ensure that everyone can participate in the process free of charge.
+-Ensure that everyone can access the knowledge base and its untampered history free of charge.
+-Ensure that everyone can improve the design of the process free of charge.
+-Make every effort to not operate in any way which causes new and major problems anywhere.
+-Have no tolerance for blatant unethicality or inaccuracy within Methodocracy for any long period of time.
+-Promote civil debates, and celebrate differences in opinion and belief.
+-Ensure equal access and participation for everyone and give everyone a voice.
+-Value inclusion.
+-Encourage sharing ideas freely.
+-Ensure integrity and accuracy, especially with the history of the knowledge base.
+-Improve democracy.
+-Refuse any power in society beyond advising.
+-Maintain logical and ethical barriers between the content of Methodocracy (and Methodocracy itself) and how society functions.
+-Ensure checks and balances are incorporated into how Methodocracy Foundation operates.
+-Operate with openness, value openness when designing and developing Methodocracy, and keep Methodocracy open-source.
+-Be transparent.
+-Maintain credibility.
+
+
+Morals and ethics.
+
+Methodocracy Foundation will always:
+-Make every decision with wisdom.
+-Value and promote morals, ethics, honesty, responsibility, prudence, selflessness, giving, kindness, compassion, love, peace, peacefulness, caring for everyone, encouragement, and improving the world around us.
+-Believe in pure good; that everyone tries to be and do good.
+-Increase the chances of survival and the quality of life for the most amount of individuals for the longest duration.
+
+
+Effectiveness.
+
+Methodocracy Foundation will always:
+-Be committed to improvement.
+-Value logic, truth, quality, organization, efficiency, reliability, cooperation, data, information, knowledge, metrics, play, creativity, and inspiration.
+-Quantify everything, and express everything in mathematical and logical models.
+-Apply the scientific method to topics that currently are not scrutinized using it.
+-Make our product, volunteer opportunities, employment, investments, and partnerships fun and engaging.
+-Question everything and encourage everyone to do the same.
+-Think big and encourage everyone to do the same.
